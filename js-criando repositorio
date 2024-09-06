@@ -1,1 +1,12 @@
+ configuração de função () {
+criarCa nvas ( 1000 , 1000 );
+fundo ( 'branco' );
+}
+função  draw () {
+traço ( 'azul' );
+preencher ( 'vermelho' );
+se ( mouseIsPressed ) {
+retângulo ( mouseX , mouseY , 20 , 20 );
+   }
+​
 
